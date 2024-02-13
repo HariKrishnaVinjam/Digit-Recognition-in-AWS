@@ -1,0 +1,1 @@
+https://20nkhedpod.execute-api.us-east-1.amazonaws.com/test/predictdigit
