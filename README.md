@@ -1,4 +1,4 @@
-1. To succesfully run this assignment all you need to do is open the file named "API_LINK.txt"
+1. To succesfully run this project all you need to do is open the file named "API_LINK.txt"
 2. There you can find the API Link.
 3. Next, go to postman.com and select HTTP request with the post method and paste the API link.
 4. Next, go back to the github repository and open the folder named "test_cases".
